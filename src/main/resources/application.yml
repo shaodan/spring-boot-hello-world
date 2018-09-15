@@ -1,0 +1,7 @@
+dry.run: true
+
+---
+spring.profiles: prod
+
+
+dry.run: false
